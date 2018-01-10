@@ -1,0 +1,12 @@
+ErrorDocument 400 /HttpErrorPages/docs/HTTP400.html
+ErrorDocument 401 /HttpErrorPages/docs/HTTP401.html
+ErrorDocument 403 /HttpErrorPages/docs/HTTP403.html
+ErrorDocument 404 /HttpErrorPages/docs/HTTP404.html
+ErrorDocument 500 /HttpErrorPages/docs/HTTP500.html
+ErrorDocument 501 /HttpErrorPages/docs/HTTP501.html
+ErrorDocument 502 /HttpErrorPages/docs/HTTP502.html
+ErrorDocument 503 /HttpErrorPages/docs/HTTP503.html
+RewriteEngine on 
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteCond %{REQUEST_FILENAME}\.php -f 
+RewriteRule ^(.*)$ $1.php
