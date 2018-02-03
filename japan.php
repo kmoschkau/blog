@@ -18,11 +18,11 @@
         <div class="row">
           <div class="col-lg-8 col-md-10 mx-auto">
             <div class="post-heading">
-              <h1>Japanese Entertainment</h1>
-              <h2 class="subheading">What I've enjoyed</h2>
+              <h1>Japanese Art and Entertainment</h1>
+              <h2 class="subheading">Post 1: Literature</h2>
               <span class="meta">Created by
                 <a href="#">Kalvin Moschkau</a>
-                on December 23, 2017</span>
+                on January 10, 2018</span>
             </div>
           </div>
         </div>
@@ -35,10 +35,10 @@
         <div class="row">
           <div class="col-lg-8 col-md-10 mx-auto">
 		  
-            <p>Japan is a fascinating country. I am no Japanese scholar, but some of the most passionate and poignant art I have ever experienced has come from this country and I'd like to share what I've found.</p>
+            <p>Japan is cool. It has a fascinating culture and history. Some of the most passionate and poignant art I have ever experienced has come from this country and I'd like to share what I've found.</p>
 			<p>Please keep in mind that most of this just scratches the surface of what Japan has to offer in terms of art and entertainment. It is not mean to be a comprehensive history of the country or even an introduction.
-			It's just Japanese stuff I have enjoyed and why.
-			<p>I haven't dived too deep into any specific director, or author, series etc. so I just selected a few standout pieces which I deemed most influential to me, personally.
+			It's just Japanese stuff I have enjoyed and maybe why.
+			<p>I haven't dived too deep into any specific director, or author, series etc. I just selected a few standout pieces which I deemed most influential to talk about.
 				I mean, I'm a 22 year old guy. I can't waste all my time on weeb shit.</p>
 			
 			<p>To appreciate what these stories have to offer you should know just a bit of Japanese history including the eras and cultural upheavals. There are roughly nice eras that I know of (I did NOT have these memorized, please):</p>
@@ -53,7 +53,7 @@
 			  <li>Taisho and Early Showa Period (1912-1945)</li>
 			  <li>Postwar Period (1945)</li>
 			</ul> 
-			<p>For a quick 9 minute, cringey meme filled rundown on Japanese history checkout this Youtube video.</p>
+			<p>For a quick 9 minute, cringey meme filled rundown on Japanese history checkout <a href="https://www.youtube.com/watch?v=Mh5LY4Mz15o"> this </a> Youtube video.</p>
 			<p>A few of these eras stand out. Between the Kamakura and Edo periods were samurai and all that jazz. The Russo-Japanese War was in 1904 during the late Meiji period. World War 1 roughly inaugurates the Taisho period. And after World War 2 is the, aptly named, post-war period.</p>
 			
 			<p>To start off, I'd like to mention a couple prominent pieces of Japanese literature.</p>
@@ -68,7 +68,7 @@
 			</ul> 
 			
 			<p>The first books mentioned by Mishima are masterpieces. Yukio Mishima is considered one of the most important Japanese authors of the 20th century. From Wikipedia "His avant-garde work displayed a blending of modern and traditional aesthetics that broke cultural boundaries, with a focus on sexuality, death, and political change." He lived a tragic life and the profundity of his works express this deeply.
-			This is a man who took his beliefs so seriously he committed suicide for them. In Snow Country, a romantic affair between two young people of nobility is set in the early years of the Taisho period. It is a tragic story. Like themes present in other Japanese stories, the personal decisions made by characters doom their futures. It is not external events and bad luck that lead to their ruin, but 
+			This is a man who took his beliefs so seriously he committed suicide for them. In Spring Snow, a romantic affair between two young people of nobility is set in the early years of the Taisho period. It is a tragic story. Like themes present in other Japanese stories, the personal decisions made by characters doom their futures. It is not external events and bad luck that lead to their ruin, but 
 			internal troubles; misgivings in their mind that lead to wrong decisions and irreparable mistakes.
 			Theme's of miscommunication, ambivalence, missed opportunity, and deep emotional pain are central to not only this novel, but many other famous works of Japanese literature. These are concepts that aren't often present in the same way in Western fiction. Often in Western lit bad luck plays the antagonist, ruining the lives of many or good luck leads to a favorable outcome. There are no Horatio Alger 'self made man' plotlines here.
 			In Mishima's stories the characters do not pull themselves up by their bootstraps. They suffer. You suffer with them. You bear witness to their tragedy and suffer the pain of lost love with no analgesic. And these feelings are important. Not all literature is meant to be an escape. 
@@ -88,49 +88,11 @@
 
 			<p>On a much lighter note sits the fantastic and surreal works of Haruki Murikami. He seems to have made his success through 'Westernizing' certain appealing aspects of Japanese life and spinning the stories with fantastic tales of raining fish and talking cats. 
 			The appeal is obvious. Taking place in the modern era, his novels still express themes of deep emotion and internal reflection, with many of the plot lines involving characters sitting in towns or buildings waiting for events to transpire. 
-			His writing may be less profound, but it provides some relief from the soul crushing narratives previously discussed and still provides a that taste of loneliness and longing that deep down everyone seeks.
+			His writing may be less profound, but it provides some relief from the soul crushing narratives previously discussed and still provides a that taste of loneliness and longing that deep down everyone seeks.</p>
 			
-			<a href="#">
-              <img class="img-fluid" src="img/champloo.png" alt="">
-            </a>
+			<p>I hope this inspires all 3 of you who read this to pick up a piece of Japanese fiction and subject your soul to all the crushing despair, morbid fatalism, and confused sexuality that Japanese literature has to offer.</p>
 
-            <span class="caption text-muted">"Reference from champloo or Cowboy Bebop, something idk"</span>
-
-
-			<p>There are several high profile Japanese directors who have produced masterpieces in film which shaped the industry.</p>
-			<p>Movies and directors I have enjoyed include:</p>
-			<p>Movies:
-			Akira Kurosawa
-			Yasujirō Ozu - Tokyo Story
-			Hiroshi Teshigahara - Woman in the Dunes
-			
-			
-			On the anime side of things: 
-			
-			Anime:
-			Hayao Miyazaki's filmography
-			Shinichirō Watanabe - Cowboy Bebop, Samurai Champloo
-			Makoto Shinkai - 5 Centimeters Per Second, Your Name
-			Katsuhiro Otomo - Akira, Neo Tokyo
-			Shatoshi Kon - Paprika, Perfect Blue, Tokyo Godfathers
-			Mamoru Oshii - Ghost in the Shell
-			Evangelioln series
-			Red Line</p>
-			
-
-			<p>future Memories 
-			The Place Promised in Our Early Days, Full Metal Alchemist</p>
-			
-			
-			<p></p>
-
-			<p></p>
-			
-			<p></p>
-
-			<p></p>
-
-			
+			<p>Stay tuned for more in the next installment!</p>
 
 
           </div>

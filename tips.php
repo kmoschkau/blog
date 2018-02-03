@@ -52,6 +52,7 @@
 			<p>Rent random movies at the library. Someone decided to make that movie available for free to every American. It can't be THAT bad.</p>
 
 			<p>Wink at strangers. You'll both like it. Probably.</p>
+			
 
 			<p>Remember, elegance overrides any question of indecency.</p>
 
@@ -60,6 +61,8 @@
 			<p>Tell pretty boys they're pretty.</p>
 
 			<p>Gamble. As much as you want.</p>
+			
+			<p>Don't play around with young girls hearts.</p>
 
 			<p>Run really hard.</p>
 

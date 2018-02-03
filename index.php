@@ -20,6 +20,35 @@
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
 		  <div class="post-preview">
+            <a href="today">
+              <h2 class="post-title">
+                Today
+              </h2>
+              <h3 class="post-subtitle">
+                The Overcoat<br>
+			  </h3>
+            </a>
+            <p class="post-meta">Written by
+              <a href="#">Kalvin Moschkau
+							on January 24, 2018</a>
+            </p>
+          </div>
+		  <hr>		  <div class="post-preview">
+            <a href="japan">
+              <h2 class="post-title">
+                Japanese Art and Entertainment
+              </h2>
+              <h3 class="post-subtitle">
+                Post 1: Literature<br>
+			  </h3>
+            </a>
+            <p class="post-meta">Written by
+              <a href="#">Kalvin Moschkau
+							on January 10, 2018</a>
+            </p>
+          </div>
+		  <hr>
+		  <div class="post-preview">
             <a href="tips">
               <h2 class="post-title">
                 Tips and Tricks
@@ -32,6 +61,7 @@
               <a href="#">Kalvin Moschkau</a>
             </p>
           </div>
+		  <hr>
           <div class="post-preview">
             <a href="signup">
               <h2 class="post-title">
@@ -45,6 +75,7 @@
               <a href="#">Kalvin Moschkau</a>
               on December 22, 2017</p>
           </div>
+		  <hr>
           <div class="post-preview">
             <a href="ash">
               <h2 class="post-title">
